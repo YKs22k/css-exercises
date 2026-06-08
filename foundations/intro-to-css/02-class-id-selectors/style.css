@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightcoral;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+    
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.odd.cooler {
+    font-size: 24px;
+
+}
